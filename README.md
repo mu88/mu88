@@ -27,6 +27,19 @@
 
 [![AWS](http://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazonaws&logoColor=232F3E)](https://aws.amazon.com/)
 [![Docker](http://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com)
+[![Kubernetes](http://img.shields.io/badge/-Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
+
+[![Jenkins](http://img.shields.io/badge/-Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=D24939)](https://www.jenkins.io/)
+[![TeamCity](http://img.shields.io/badge/-TeamCity-white?style=for-the-badge&logo=teamcity&logoColor=000000)](https://www.jetbrains.com/teamcity/)
+[![GitHub Actions](http://img.shields.io/badge/-GitHub%20Actions-white?style=for-the-badge&logo=githubactions&logoColor=2088FF)](https://github.com/actions)
+[![Renovate Bot](http://img.shields.io/badge/-Renovate%20Bot-white?style=for-the-badge&logo=renovatebot&logoColor=1A1F6C)](https://www.mend.io/renovate/)
+[![Bitbucket](http://img.shields.io/badge/-Bitbucket-white?style=for-the-badge&logo=bitbucket&logoColor=0052CC)](https://bitbucket.org/)
+[![Sonar](http://img.shields.io/badge/-Sonar-white?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)](https://www.sonarsource.com/)
+[![Vault](http://img.shields.io/badge/-Vault-white?style=for-the-badge&logo=vault&logoColor=000000)](https://www.hashicorp.com/products/vault)
+[![Argo](http://img.shields.io/badge/-Argo-white?style=for-the-badge&logo=argo&logoColor=EF7B4D)](https://argoproj.github.io/cd/)
+[![Octopus](http://img.shields.io/badge/-Octopus-white?style=for-the-badge&logo=octopusdeploy&logoColor=2F93E0)](https://octopus.com/)
+[![Grafana](http://img.shields.io/badge/-Grafana-white?style=for-the-badge&logo=grafana&logoColor=F46800)](https://grafana.com/)
+[![Prometheus](http://img.shields.io/badge/-Prometheus-white?style=for-the-badge&logo=prometheus&logoColor=E6522C)](https://prometheus.io/)
 
 ### Repos I maintain:
 
@@ -40,3 +53,10 @@
 * [Joplin Asustor Mediator](https://github.com/mu88/JoplinAsustorMediator)
 * [BlazorFotoManager](https://github.com/mu88/BlazorFotoManager)
 
+### Hobbies:
+
+[![Raspberry Pi](http://img.shields.io/badge/-Raspberry%20Pi-white?style=for-the-badge&logo=raspberrypi&logoColor=A22846)](https://www.raspberrypi.org/)
+[![Blazor](http://img.shields.io/badge/-Blazor-white?style=for-the-badge&logo=blazor&logoColor=512BD4)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[![Tor](http://img.shields.io/badge/-Tor%20Project-white?style=for-the-badge&logo=torproject&logoColor=7E4798)](https://www.torproject.org/)
+[![%2Fe%2F](http://img.shields.io/badge/-%2Fe%2F-white?style=for-the-badge&logo=e&logoColor=000000)](https://e.foundation/)
+[![Joplin](http://img.shields.io/badge/-Joplin-white?style=for-the-badge&logo=joplin&logoColor=1071D3)](joplinapp.org/)
