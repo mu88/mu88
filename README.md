@@ -19,14 +19,14 @@
 [![Rider](https://img.shields.io/badge/-Rider-white?style=for-the-badge&logo=rider&logoColor=000000)](https://www.jetbrains.com/rider/)
 [![ReSharper](https://img.shields.io/badge/-ReSharper-white?style=for-the-badge&logo=resharper&logoColor=000000)](https://www.jetbrains.com/resharper/)
 
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-white?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)](https://visualstudio.microsoft.com)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-white?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://visualstudio.microsoft.com)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com)
 
-[![C#](https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=csharp&logoColor=239120)](https://dotnet.microsoft.com/languages/csharp)
+[![C#](https://img.shields.io/badge/-C%23-white?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://dotnet.microsoft.com/languages/csharp)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-white?style=for-the-badge&logo=powershell&logoColor=5391FE)](https://learn.microsoft.com/powershell)
 [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-white?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D)](https://github.com/microsoft/terminal)
 
-[![AWS](https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazonaws&logoColor=232F3E)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
 
