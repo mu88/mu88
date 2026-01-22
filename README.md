@@ -46,6 +46,7 @@
 * [Screenshot Creator](https://github.com/mu88/ScreenshotCreator/)
 * [Raspi Fan Controller](https://github.com/mu88/RaspiFanController)
 * [This Is Your Life](https://github.com/mu88/ThisIsYourLife)
+* [Password Trainer](https://github.com/mu88/PasswordTrainer)
 * [Electron Website Wrapper](https://github.com/mu88/ElectronWebsiteWrapper/)
 * [NuGet package `mu88.Shared`](https://github.com/mu88/mu88.Shared/)
 * [Map Service Search](https://github.com/mu88/MapServiceSearch)
