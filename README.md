@@ -50,7 +50,6 @@
 * [Electron Website Wrapper](https://github.com/mu88/ElectronWebsiteWrapper/)
 * [NuGet package `mu88.Shared`](https://github.com/mu88/mu88.Shared/)
 * [Map Service Search](https://github.com/mu88/MapServiceSearch)
-* [BlazorFotoManager](https://github.com/mu88/BlazorFotoManager)
 
 ### Repos I maintained:
 * [Test Linker 2](https://plugins.jetbrains.com/plugin/15518-test-linker-2)
@@ -66,7 +65,6 @@
 
 ### Quick access repos
 - https://github.com/mu88/chocolatey-packages
-- https://github.com/mu88/devcontainers/
-- https://github.com/mu88/github-actions/
-- https://github.com/mu88/renovate-config/
+- https://github.com/mu88/common
 - https://github.com/mu88/ShopAndEat/
+* [BlazorFotoManager](https://github.com/mu88/BlazorFotoManager)
