@@ -66,5 +66,5 @@
 ### Quick access repos
 - https://github.com/mu88/chocolatey-packages
 - https://github.com/mu88/common
-- https://github.com/mu88/ShopAndEat/
-* [BlazorFotoManager](https://github.com/mu88/BlazorFotoManager)
+- https://github.com/mu88/ShopAndEat
+- [BlazorFotoManager](https://github.com/mu88/BlazorFotoManager)
