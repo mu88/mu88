@@ -17,17 +17,9 @@ jobs:
       contents: write
     
     steps:
-      - name: Create GitHub App token
-        uses: actions/create-github-app-token@v2
-        id: app-token
-        with:
-          app-id: ${{ secrets.APP_MU88_LOWLIGHTER_ID }}
-          private-key: ${{ secrets.APP_MU88_LOWLIGHTER_PRIVATE_KEY }}
-
       - name: Create metrics
         uses: lowlighter/metrics@latest
         with:
-          # token: ${{ steps.app-token.outputs.token }}
           token: ${{ secrets.LOWLIGHTER_TOKEN }}
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 4919526
